@@ -1,0 +1,9 @@
+*{
+  text-align:center ;
+}
+.map{
+  width: 80vw;
+  margin: 0px 0px -400px 0px;
+  background-color: rgb(149, 149, 10);
+  border-radius: 50px;
+}
